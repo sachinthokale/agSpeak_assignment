@@ -108,7 +108,6 @@ const OrderPage = () => {
           </TabPanels>
         </Tabs>
       </Box>
-      <p>username : username , password: password</p>
     </HStack>
   );
 };
